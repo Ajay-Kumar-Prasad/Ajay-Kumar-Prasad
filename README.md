@@ -24,32 +24,32 @@
 
 <p align="center">
   
-  <!-- MERN Ecommerce -->
   <a href="https://github.com/Ajay-Kumar-Prasad/ECOMMERCE-WEBSITE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=ECOMMERCE-WEBSITE&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=ECOMMERCE-WEBSITE&theme=radical" alt="ECOMMERCE WEBSITE Repo"/>
   </a>
   
-  <!-- HSIViT -->
-  <a href="https://github.com/Ajay-Kumar-Prasad/HSIViT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=HSIViT&theme=radical" />
+  <a href="https://github.com/Ajay-Kumar-Prasad/Breast_Cancer_Detection_Logistic_Reg">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=Breast_Cancer_Detection_Logistic_Reg&theme=radical" alt="Breast Cancer Detection Repo"/>
   </a>
   
-  <!-- AI Student Assistant -->
-  <a href="https://github.com/Ajay-Kumar-Prasad/AI-Student-Assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=AI-Student-Assistant&theme=radical" />
+  <a href="https://github.com/Ajay-Kumar-Prasad/Housing_Prediction_Linear_Reg_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=Housing_Prediction_Linear_Reg_Project&theme=radical" alt="Housing Prediction Repo"/>
   </a>
   
-  <!-- Spam Classifier -->
+  <a href="https://github.com/Ajay-Kumar-Prasad/Heart_Disease_Prediction_Random_Forest_Classifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=Heart_Disease_Prediction_Random_Forest_Classifier&theme=radical" alt="Heart Disease Prediction Repo"/>
+  </a>
+  
   <a href="https://github.com/Ajay-Kumar-Prasad/Email_Spam_Classifier_using_Naive_Bayes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=Email_Spam_Classifier_using_Naive_Bayes&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=Email_Spam_Classifier_using_Naive_Bayes&theme=radical" alt="Email Spam Classifier Repo"/>
   </a>
   
-  <!-- Airbnb Clone -->
-  <a href="https://github.com/Ajay-Kumar-Prasad/MyMegaProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=MyMegaProject&theme=radical" />
+  <a href="https://github.com/Ajay-Kumar-Prasad/Calories_Burnt_Prediction_Using_XGBoost_Regressor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=Calories_Burnt_Prediction_Using_XGBoost_Regressor&theme=radical" alt="Calories Burnt Prediction Repo"/>
   </a>
 
 </p>
+
 ---
 
 ## 🛠️ Tech Stack
