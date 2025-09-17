@@ -86,6 +86,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-Kumar-Prasad&theme=radical" height="180"/>
 </p>
 
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajay-Kumar-Prasad&theme=radical&hide_border=true&area=true" alt="Ajay's Activity Graph"/>
+</p>
+
 ---
 
 ## 📫 Connect with Me
