@@ -1,3 +1,5 @@
+![Header](https://media.licdn.com/dms/image/v2/D5616AQHf7nJJSyUTaA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735800928524?e=1761177600&v=beta&t=S7m_B2i-hDAFWkI7gO7Ii2CFbz57fOOoymRGvojvhfc)
+
 # Hi there, I'm Ajay 👋
 
 🎓 2nd-year B.Tech CSE @ NIT Andhra Pradesh  
@@ -5,7 +7,7 @@
 🚀 Exploring **MLOps, Hyperspectral Image Classification, and AI-powered apps**
 
 MyResume
-- (https://drive.google.com/file/d/1o1mWk8AtQ0Duc9UNoSVsh0Odv2F_UdOE/view?usp=sharing)
+- [Check My Resume Here!!](https://drive.google.com/file/d/1o1mWk8AtQ0Duc9UNoSVsh0Odv2F_UdOE/view?usp=sharing)
 ---
 
 ## 🔥 Projects
