@@ -9,7 +9,7 @@
 ## 🔥 Projects
 - 🛒 **MERN E-commerce **
   - Frontend + Backend + Cart + Auth
-  - [🔗 Repo Link]([https://github.com/yourusername/yourrepo](https://github.com/Ajay-Kumar-Prasad/ECOMMERCE-WEBSITE))
+  - [🔗 Repo Link](https://github.com/Ajay-Kumar-Prasad/ECOMMERCE-WEBSITE)
 
 - 🌈 **HSIViT – Hyperspectral Image Classification**
   - Vision Transformer + CNN
