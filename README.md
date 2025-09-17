@@ -26,46 +26,47 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="180" height="180" valign="top">
+    <td align="center">
       <a href="https://github.com/Ajay-Kumar-Prasad/ECOMMERCE-WEBSITE">
-        <img src="https://img.shields.io/badge/E-commerce-Website-blue?style=for-the-badge&logo=shopify" alt="E-commerce Website" width="120" height="120"/><br>
-        <b>E-commerce Website</b>
+        <img src="https://img.shields.io/badge/E-commerce%20Website-blue?style=for-the-badge&logo=shopify" alt="E-commerce Website" /><br>
+        E-commerce Website
       </a>
     </td>
-    <td align="center" width="180" height="180" valign="top">
+    <td align="center">
       <a href="https://github.com/Ajay-Kumar-Prasad/Housing_Prediction_Linear_Reg_Project">
-        <img src="https://img.shields.io/badge/Housing-Price%20Prediction-green?style=for-the-badge&logo=r-project" alt="Housing Price Prediction" width="120" height="120"/><br>
-        <b>Housing Price Prediction</b>
+        <img src="https://img.shields.io/badge/Housing%20Price%20Prediction-green?style=for-the-badge&logo=r-project" alt="Housing Price Prediction" /><br>
+        Housing Price Prediction
       </a>
     </td>
-    <td align="center" width="180" height="180" valign="top">
+    <td align="center">
       <a href="https://github.com/Ajay-Kumar-Prasad/Heart_Disease_Prediction_Random_Forest_Classifier">
-        <img src="https://img.shields.io/badge/Heart-Disease%20Prediction-red?style=for-the-badge&logo=python" alt="Heart Disease Prediction" width="120" height="120"/><br>
-        <b>Heart Disease Prediction</b>
+        <img src="https://img.shields.io/badge/Heart%20Disease%20Prediction-red?style=for-the-badge&logo=python" alt="Heart Disease Prediction" /><br>
+        Heart Disease Prediction
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="180" height="180" valign="top">
+    <td align="center">
       <a href="https://github.com/Ajay-Kumar-Prasad/Email_Spam_Classifier_using_Naive_Bayes">
-        <img src="https://img.shields.io/badge/Email-Spam%20Classifier-orange?style=for-the-badge&logo=gmail" alt="Email Spam Classifier" width="120" height="120"/><br>
-        <b>Email Spam Classifier</b>
+        <img src="https://img.shields.io/badge/Email%20Spam%20Classifier-orange?style=for-the-badge&logo=gmail" alt="Email Spam Classifier" /><br>
+        Email Spam Classifier
       </a>
     </td>
-    <td align="center" width="180" height="180" valign="top">
+    <td align="center">
       <a href="https://github.com/Ajay-Kumar-Prasad/Calories_Burnt_Prediction_Using_XGBoost_Regressor">
-        <img src="https://img.shields.io/badge/Calories-Burnt%20Prediction-yellow?style=for-the-badge&logo=python" alt="Calories Burnt Prediction" width="120" height="120"/><br>
-        <b>Calories Burnt Prediction</b>
+        <img src="https://img.shields.io/badge/Calories%20Burnt%20Prediction-yellow?style=for-the-badge&logo=python" alt="Calories Burnt Prediction" /><br>
+        Calories Burnt Prediction
       </a>
     </td>
-    <td align="center" width="180" height="180" valign="top">
+    <td align="center">
       <a href="https://github.com/Ajay-Kumar-Prasad/MyMegaProject">
-        <img src="https://img.shields.io/badge/Airbnb-Clone-purple?style=for-the-badge&logo=airbnb" alt="Airbnb Clone" width="120" height="120"/><br>
-        <b>Airbnb Website Clone</b>
+        <img src="https://img.shields.io/badge/Airbnb%20Clone-purple?style=for-the-badge&logo=airbnb" alt="Airbnb Website Clone" /><br>
+        Airbnb Website Clone
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
