@@ -112,8 +112,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
-   <img src="https://www.svgrepo.com/svg/373568/dvc" alt="DVC" width="40" height="40"/>
-   <img src="https://www.google.com/imgres?q=mlflow%20icon&imgurl=https%3A%2F%2Fmlflow.org%2Fdocs%2F2.12.2%2F_static%2FMLflow-logo-final-black.png&imgrefurl=https%3A%2F%2Fmlflow.org%2Fdocs%2F2.12.2%2F&docid=kqgRDQ_XMQq8eM&tbnid=cs-4efhCrYOedM&vet=12ahUKEwiYh6vQ99-PAxX1aCoJHWtrAK8QM3oECBYQAA..i&w=750&h=275&hcb=2&ved=2ahUKEwiYh6vQ99-PAxX1aCoJHWtrAK8QM3oECBYQAA" alt="MLflow" width="40" height="40"/>
+   <img src="[https://www.svgrepo.com/svg/373568/dvc](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ4MNZqOZlDmY8_VtWUwLpPksCSEqRGx0IMQ&s)" alt="DVC" width="40" height="40"/>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8SRrObIPS4q8a_QXyw7WfDDeOMJf0KGnyUg&s" alt="MLflow" width="40" height="40"/>
 </p>
 
 
