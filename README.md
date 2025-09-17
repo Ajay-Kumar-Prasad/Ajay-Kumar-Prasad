@@ -23,7 +23,6 @@
 ## 🔥 Projects
 
 <p align="center">
-
   <a href="https://github.com/Ajay-Kumar-Prasad/ECOMMERCE-WEBSITE">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=ECOMMERCE-WEBSITE&theme=radical" alt="E-commerce Website" />
   </a>
@@ -35,7 +34,9 @@
   <a href="https://github.com/Ajay-Kumar-Prasad/Heart_Disease_Prediction_Random_Forest_Classifier">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=Heart_Disease_Prediction_Random_Forest_Classifier&theme=radical" alt="Heart Disease Prediction" />
   </a>
+</p>
 
+<p align="center">
   <a href="https://github.com/Ajay-Kumar-Prasad/Email_Spam_Classifier_using_Naive_Bayes">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=Email_Spam_Classifier_using_Naive_Bayes&theme=radical" alt="Email Spam Classifier" />
   </a>
@@ -47,8 +48,8 @@
   <a href="https://github.com/Ajay-Kumar-Prasad/MyMegaProject">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=MyMegaProject&theme=radical" alt="Airbnb Website Clone" />
   </a>
-
 </p>
+
 
 ---
 
