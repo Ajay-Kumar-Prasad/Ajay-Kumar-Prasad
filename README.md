@@ -21,27 +21,35 @@
 ---
 
 ## 🔥 Projects
-- 🛒 **MERN E-commerce**
-  - Full MERN stack • Cart System • Authentication  
-  - [🔗 Repo](https://github.com/Ajay-Kumar-Prasad/ECOMMERCE-WEBSITE)
 
-- 🌈 **HSIViT – Hyperspectral Image Classification**
-  - Vision Transformer + CNN  
-  - Achieved **94% accuracy** on *Indian Pines*  
-  - [🔗 Repo]()
+<p align="center">
+  
+  <!-- MERN Ecommerce -->
+  <a href="https://github.com/Ajay-Kumar-Prasad/ECOMMERCE-WEBSITE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=ECOMMERCE-WEBSITE&theme=radical" />
+  </a>
+  
+  <!-- HSIViT -->
+  <a href="https://github.com/Ajay-Kumar-Prasad/HSIViT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=HSIViT&theme=radical" />
+  </a>
+  
+  <!-- AI Student Assistant -->
+  <a href="https://github.com/Ajay-Kumar-Prasad/AI-Student-Assistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=AI-Student-Assistant&theme=radical" />
+  </a>
+  
+  <!-- Spam Classifier -->
+  <a href="https://github.com/Ajay-Kumar-Prasad/Email_Spam_Classifier_using_Naive_Bayes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=Email_Spam_Classifier_using_Naive_Bayes&theme=radical" />
+  </a>
+  
+  <!-- Airbnb Clone -->
+  <a href="https://github.com/Ajay-Kumar-Prasad/MyMegaProject">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=MyMegaProject&theme=radical" />
+  </a>
 
-- 🤖 **AI-Powered Student Assistant (SIH 2024)**
-  - Team Leader • NLP chatbot for students  
-  - [🔗 Repo]()
-
-- 📧 **Email Spam Classifier**
-  - Streamlit Web App • Naive Bayes model  
-  - [🔗 Repo](https://github.com/Ajay-Kumar-Prasad/Email_Spam_Classifier_using_Naive_Bayes)
-
-- 🏠 **Airbnb Clone**
-  - Built with Node.js, Express.js & MongoDB  
-  - [🔗 Repo](https://github.com/Ajay-Kumar-Prasad/MyMegaProject)
-
+</p>
 ---
 
 ## 🛠️ Tech Stack
