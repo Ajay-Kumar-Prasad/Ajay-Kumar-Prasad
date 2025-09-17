@@ -25,11 +25,7 @@
 <p align="center">
   
   <a href="https://github.com/Ajay-Kumar-Prasad/ECOMMERCE-WEBSITE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=ECOMMERCE-WEBSITE&theme=radical" alt="ECOMMERCE WEBSITE Repo"/>
-  </a>
-  
-  <a href="https://github.com/Ajay-Kumar-Prasad/Breast_Cancer_Detection_Logistic_Reg">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=Breast_Cancer_Detection_Logistic_Reg&theme=radical" alt="Breast Cancer Detection Repo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=ECOMMERCE-WEBSITE&theme=radical" alt="ECOMMERCE WEBSITE"/>
   </a>
   
   <a href="https://github.com/Ajay-Kumar-Prasad/Housing_Prediction_Linear_Reg_Project">
