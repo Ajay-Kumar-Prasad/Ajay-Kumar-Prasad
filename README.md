@@ -88,8 +88,9 @@
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajay-Kumar-Prasad&theme=radical&hide_border=true&area=true" alt="Ajay's Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajay-Kumar-Prasad&theme=tokyo-night&hide_border=true&area=true" alt="Ajay's Activity Graph"/>
 </p>
+
 
 ---
 
