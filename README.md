@@ -4,6 +4,8 @@
 💻 Passionate about **Machine Learning, Generative AI & Full-Stack Development**  
 🚀 Exploring **MLOps, Hyperspectral Image Classification, and AI-powered apps**
 
+MyResume
+- (https://drive.google.com/file/d/1o1mWk8AtQ0Duc9UNoSVsh0Odv2F_UdOE/view?usp=sharing)
 ---
 
 ## 🔥 Projects
