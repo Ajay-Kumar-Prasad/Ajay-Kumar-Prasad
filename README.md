@@ -40,9 +40,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajay-Kumar-Prasad&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Kumar-Prasad&layout=compact&theme=radical)
 
 ---
 
@@ -52,8 +52,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-- Portfolio: [Your Website](https://yourwebsite.com)  
-- Email: youremail@example.com
+- Portfolio: [Your Website]()  
+- Email: ajaykumar250604@gmail.com
 
 
 <!--
