@@ -25,26 +25,27 @@
 <p align="center">
   
   <a href="https://github.com/Ajay-Kumar-Prasad/ECOMMERCE-WEBSITE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=ECOMMERCE-WEBSITE&theme=radical" alt="ECOMMERCE WEBSITE"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=ECOMMERCE-WEBSITE&theme=radical" alt="Ecommerce Website"/>
   </a>
   
-  <a href="https://github.com/Ajay-Kumar-Prasad/Housing_Prediction_Linear_Reg_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=Housing_Prediction_Linear_Reg_Project&theme=radical" alt="Housing Prediction Repo"/>
+  <a href="https://github.com/Ajay-Kumar-Prasad/Housing_Price_Prediction_Linear_Regression">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=Housing_Price_Prediction_Linear_Regression&theme=radical" alt="Housing Price Prediction"/>
   </a>
   
-  <a href="https://github.com/Ajay-Kumar-Prasad/Heart_Disease_Prediction_Random_Forest_Classifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=Heart_Disease_Prediction_Random_Forest_Classifier&theme=radical" alt="Heart Disease Prediction Repo"/>
+  <a href="https://github.com/Ajay-Kumar-Prasad/Heart-Disease-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=Heart-Disease-Prediction&theme=radical" alt="Heart Disease Prediction"/>
   </a>
   
-  <a href="https://github.com/Ajay-Kumar-Prasad/Email_Spam_Classifier_using_Naive_Bayes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=Email_Spam_Classifier_using_Naive_Bayes&theme=radical" alt="Email Spam Classifier Repo"/>
+  <a href="https://github.com/Ajay-Kumar-Prasad/Email-Spam-Classifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=Email-Spam-Classifier&theme=radical" alt="Email Spam Classifier"/>
   </a>
   
-  <a href="https://github.com/Ajay-Kumar-Prasad/Calories_Burnt_Prediction_Using_XGBoost_Regressor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=Calories_Burnt_Prediction_Using_XGBoost_Regressor&theme=radical" alt="Calories Burnt Prediction Repo"/>
+  <a href="https://github.com/Ajay-Kumar-Prasad/Calories-Burnt-Prediction-XGBoost">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Kumar-Prasad&repo=Calories-Burnt-Prediction-XGBoost&theme=radical" alt="Calories Burnt Prediction"/>
   </a>
 
 </p>
+
 
 ---
 
