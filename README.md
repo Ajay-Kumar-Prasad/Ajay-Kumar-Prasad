@@ -14,7 +14,7 @@
 ---
 
 ### 👨‍💻 About Me
-🎓 2nd-year B.Tech CSE @ **NIT Andhra Pradesh**  
+🎓 Student | B.Tech CSE @ **NIT Andhra Pradesh**  
 💻 Passionate about **Machine Learning, Generative AI & Full-Stack Development**  
 🚀 Exploring **MLOps, Hyperspectral Image Classification, and AI-powered Apps**  
 
