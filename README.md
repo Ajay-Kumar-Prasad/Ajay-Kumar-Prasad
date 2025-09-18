@@ -136,6 +136,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajay-Kumar-Prasad&theme=tokyo-night&hide_border=true&area=true" alt="Ajay's Activity Graph"/>
 </p>
 
+## 🧩 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ajay-Kumar-Prasad?theme=dark&font=Karma&ext=heatmap)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Ajay-Kumar-Prasad?ext=contest)](https://leetcode.com/Ajay-Kumar-Prasad)
+
+
 
 ---
 
