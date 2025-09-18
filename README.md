@@ -140,10 +140,6 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ajay-Kumar-Prasad?theme=dark&font=Karma&ext=heatmap)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Ajay-Kumar-Prasad?ext=contest)](https://leetcode.com/Ajay-Kumar-Prasad)
-
-
-
 ---
 
 ## 📫 Connect with me
