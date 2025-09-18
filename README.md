@@ -142,10 +142,10 @@
 ## 📫 Connect with me
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/Ajay-kumar-prasad-744b54287/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:ajayk10440@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a>
   <a href="https://your-portfolio-url.com" target="_blank">
