@@ -138,7 +138,7 @@
 
 ## 🧩 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ajayk10440?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ajay-Kumar-Prasad?theme=dark&font=Karma&ext=heatmap)
 
 ---
 
