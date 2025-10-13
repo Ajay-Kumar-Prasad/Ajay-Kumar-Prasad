@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQHf7nJJSyUTaA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735800928524?e=1761177600&v=beta&t=S7m_B2i-hDAFWkI7gO7Ii2CFbz57fOOoymRGvojvhfc" alt="Header Banner"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGH0w18wq3DFA/profile-displaybackgroundimage-shrink_350_1400/B56ZnfMpmXJYAg-/0/1760386260355?e=1762992000&v=beta&t=KTqnmDMXr6v0PK5kN-2dULxOyBGvUNCesbBWe20su5g" alt="Header Banner"/>
 </p>
 
 <p align="center">
