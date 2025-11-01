@@ -21,63 +21,79 @@
 📄 [**Check My Resume Here!**](https://drive.google.com/file/d/1o1mWk8AtQ0Duc9UNoSVsh0Odv2F_UdOE/view?usp=sharing)
 
 ---
-## 🚀 Featured Projects
+<div align="center">
 
-<table align="center">
+# 🌟 **Featured Projects**
+
+</div>
+
+---
+
+<table align="center" style="border:none;">
   <tr>
-    <td align="center" width="230">
+    <td align="center" width="260" style="border:none;">
       <a href="https://github.com/Ajay-Kumar-Prasad/ECOMMERCE-WEBSITE">
-        <img src="https://img.icons8.com/color/96/shopping-cart.png" width="60"/><br>
-        <b>E-commerce Website</b>
+        <img src="https://img.icons8.com/external-flat-juicy-fish/96/external-ecommerce-online-shopping-flat-flat-juicy-fish-2.png" width="70"/><br>
+        <b>E-Commerce Website</b>
       </a><br>
-      <sub>🛒 MERN Stack | AI Recommendations | Secure Auth</sub><br>
-      <sub>Full-stack e-commerce platform providing a seamless shopping experience with cart, search, and product recommendation features.</sub>
+      <sub><b>Tech:</b> MERN Stack | AI Recommendations | JWT Auth</sub><br>
+      <sub>Seamless online shopping experience with dynamic cart, search, and recommendation engine.</sub>
     </td>
-    <td align="center" width="230">
+    <td align="center" width="260" style="border:none;">
       <a href="https://github.com/Ajay-Kumar-Prasad/Email_Spam_Classifier_using_Naive_Bayes">
-        <img src="https://img.icons8.com/color/96/email.png" width="60"/><br>
+        <img src="https://img.icons8.com/color/96/mail-filter.png" width="70"/><br>
         <b>Email Spam Classifier</b>
       </a><br>
-      <sub>📧 Streamlit | Naive Bayes | NLP</sub><br>
-      <sub>Classifies emails or SMS messages as Spam or Not Spam using a trained Naive Bayes model on labeled text datasets.</sub>
+      <sub><b>Tech:</b> Streamlit | Naive Bayes | NLP</sub><br>
+      <sub>Machine learning web app that classifies emails or SMS as spam or not using NLP-based text models.</sub>
     </td>
-    <td align="center" width="230">
+    <td align="center" width="260" style="border:none;">
       <a href="https://github.com/Ajay-Kumar-Prasad/DSA-Problems-Tracker">
-        <img src="https://img.icons8.com/color/96/source-code.png" width="60"/><br>
+        <img src="https://img.icons8.com/color/96/source-code.png" width="70"/><br>
         <b>DSA Problems Tracker</b>
       </a><br>
-      <sub>💻 C++ | Algorithms | Problem Solving</sub><br>
-      <sub>Curated collection of solved DSA problems with detailed theory, explanations, and C++ implementations.</sub>
+      <sub><b>Tech:</b> C++ | Data Structures | Algorithms</sub><br>
+      <sub>A structured tracker of solved DSA problems with theory, explanations, and detailed C++ solutions.</sub>
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="230">
+    <td align="center" width="260" style="border:none;">
       <a href="https://github.com/Ajay-Kumar-Prasad/MyMegaProject">
-        <img src="https://img.icons8.com/color/96/airbnb.png" width="60"/><br>
-        <b>Airbnb Website Clone</b>
+        <img src="https://img.icons8.com/color/96/airbnb.png" width="70"/><br>
+        <b>Airbnb Clone</b>
       </a><br>
-      <sub>🏡 Node.js | Express.js | MongoDB</sub><br>
-      <sub>Responsive Airbnb clone built while learning backend web development, featuring listings, authentication, and basic CRUD operations.</sub>
+      <sub><b>Tech:</b> Node.js | Express.js | MongoDB</sub><br>
+      <sub>Responsive Airbnb-inspired website with property listings, authentication, and backend integration.</sub>
     </td>
-    <td align="center" width="230">
+    <td align="center" width="260" style="border:none;">
       <a href="https://github.com/Ajay-Kumar-Prasad/jarvis">
-        <img src="https://img.icons8.com/color/96/robot-2.png" width="60"/><br>
+        <img src="https://img.icons8.com/color/96/robot-2.png" width="70"/><br>
         <b>Jarvis AI Assistant</b>
       </a><br>
-      <sub>🤖 Python | Web Automation | NLP</sub><br>
-      <sub>AI-powered personal assistant capable of web searching, YouTube playback, and product ordering through automated browser control.</sub>
+      <sub><b>Tech:</b> Python | Web Automation | NLP</sub><br>
+      <sub>Personal AI assistant for web automation — searches the web, plays YouTube videos, and executes tasks.</sub>
     </td>
-    <td align="center" width="230">
+    <td align="center" width="260" style="border:none;">
       <a href="https://github.com/Ajay-Kumar-Prasad/Smart-Quality-Inspection-System">
-        <img src="https://img.icons8.com/color/96/inspection.png" width="60"/><br>
+        <img src="https://img.icons8.com/color/96/inspection.png" width="70"/><br>
         <b>Smart Quality Inspection System</b>
       </a><br>
-      <sub>⚙️ Computer Vision | Deep Learning | MLOps</sub><br>
-      <sub>AI-based defect detection system for industrial manufacturing using image processing, model training, and MLOps workflow.</sub>
+      <sub><b>Tech:</b> Computer Vision | Deep Learning | MLOps</sub><br>
+      <sub>AI-powered defect detection for manufacturing pipelines, combining CV models with MLOps automation.</sub>
     </td>
   </tr>
 </table>
+
+---
+
+<div align="center">
+
+✨ *Each project reflects my journey toward building intelligent, scalable, and impactful systems.*  
+⭐ Feel free to explore, fork, or contribute!
+
+</div>
+
 ---
 
 # 🚀 Tech Stack
