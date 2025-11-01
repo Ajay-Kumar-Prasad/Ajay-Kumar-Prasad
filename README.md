@@ -22,50 +22,64 @@
 
 ---
 
-## 🔥 Projects
+## 🚀 Featured Projects
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" width="220">
       <a href="https://github.com/Ajay-Kumar-Prasad/ECOMMERCE-WEBSITE">
-        <img src="https://img.icons8.com/color/96/shopping-cart.png" width="60" /><br>
+        <img src="https://img.icons8.com/color/96/shopping-cart.png" width="60"/><br>
         <b>E-commerce Website</b>
-      </a>
+      </a><br>
+      <sub>🛒 MERN Stack | AI Recommendations | Authentication</sub><br>
+      <sub>Full-fledged online store with cart, filters, and AI-based product recommendations.</sub>
     </td>
-    <td align="center">
+    <td align="center" width="220">
       <a href="https://github.com/Ajay-Kumar-Prasad/Housing_Prediction_Linear_Reg_Project">
-        <img src="https://img.icons8.com/color/96/home-page.png" width="60" /><br>
+        <img src="https://img.icons8.com/color/96/home-page.png" width="60"/><br>
         <b>Housing Price Prediction</b>
-      </a>
+      </a><br>
+      <sub> Linear Regression | Data Preprocessing | Visualization</sub><br>
+      <sub>Predicts house prices using essential housing features and regression analysis.</sub>
     </td>
-    <td align="center">
+    <td align="center" width="220">
       <a href="https://github.com/Ajay-Kumar-Prasad/Heart_Disease_Prediction_Random_Forest_Classifier">
-        <img src="https://img.icons8.com/color/96/heart-with-pulse.png" width="60" /><br>
+        <img src="https://img.icons8.com/color/96/heart-with-pulse.png" width="60"/><br>
         <b>Heart Disease Prediction</b>
-      </a>
+      </a><br>
+      <sub> Random Forest | Scikit-learn | Streamlit</sub><br>
+      <sub>Predicts heart disease likelihood based on medical parameters.</sub>
     </td>
   </tr>
+
   <tr>
-    <td align="center">
+    <td align="center" width="220">
       <a href="https://github.com/Ajay-Kumar-Prasad/Email_Spam_Classifier_using_Naive_Bayes">
-        <img src="https://img.icons8.com/color/96/email.png" width="60" /><br>
+        <img src="https://img.icons8.com/color/96/email.png" width="60"/><br>
         <b>Email Spam Classifier</b>
-      </a>
+      </a><br>
+      <sub>📧 NLP | Naive Bayes | TF-IDF</sub><br>
+      <sub>Detects spam emails using probabilistic NLP models.</sub>
     </td>
-    <td align="center">
+    <td align="center" width="220">
       <a href="https://github.com/Ajay-Kumar-Prasad/Calories_Burnt_Prediction_Using_XGBoost_Regressor">
-        <img src="https://img.icons8.com/color/96/fire-element.png" width="60" /><br>
+        <img src="https://img.icons8.com/color/96/fire-element.png" width="60"/><br>
         <b>Calories Burnt Prediction</b>
-      </a>
+      </a><br>
+      <sub> XGBoost | Regression | Fitness Data</sub><br>
+      <sub>Estimates calories burnt from activity data using gradient boosting.</sub>
     </td>
-    <td align="center">
+    <td align="center" width="220">
       <a href="https://github.com/Ajay-Kumar-Prasad/MyMegaProject">
-        <img src="https://img.icons8.com/color/96/airbnb.png" width="60" /><br>
+        <img src="https://img.icons8.com/color/96/airbnb.png" width="60"/><br>
         <b>Airbnb Website Clone</b>
-      </a>
+      </a><br>
+      <sub> HTML | CSS | JavaScript</sub><br>
+      <sub>A responsive Airbnb-style interface showcasing rental listings.</sub>
     </td>
   </tr>
 </table>
+
 
 ---
 
