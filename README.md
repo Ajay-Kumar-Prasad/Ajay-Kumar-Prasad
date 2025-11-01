@@ -14,9 +14,19 @@
 ---
 
 ### 👨‍💻 About Me
-🎓 Student | B.Tech CSE @ **NIT Andhra Pradesh**  
-💻 Passionate about **Machine Learning, Generative AI & Full-Stack Development**  
-🚀 Exploring **MLOps, Hyperspectral Image Classification, and AI-powered Apps**  
+🎓 B.Tech CSE student at **NIT Andhra Pradesh**, blending curiosity with code.  
+💡 I build intelligent systems across **Machine Learning, Generative AI, and Full-Stack Development**.  
+🚀 Currently exploring **MLOps workflows, Hyperspectral Image Classification, and AI-powered Web Apps** to push projects from idea to impact.  
+
+---
+
+### 🏅 Achievements
+- 🥇 **Team Leader** – Smart India Hackathon 2024 & 2025 (AI-Powered Solutions)  
+- 💻 **React Developer Intern** – Ionic Webcreator Pvt. Ltd.  
+- 📊 **JEE Mains Topper (2023)** representing **Sikkim**  
+- ⚙️ Built 5+ end-to-end projects in **MERN Stack, AI, and Computer Vision**  
+- 🧠 Solved **100+ DSA problems** on LeetCode  
+
 
 📄 [**Check My Resume Here!**](https://drive.google.com/file/d/1o1mWk8AtQ0Duc9UNoSVsh0Odv2F_UdOE/view?usp=sharing)
 
@@ -91,6 +101,7 @@
 <div align="center">
 ⭐ Explore the repos, drop a star if something makes your inner geek smile.
 </div>
+
 ---
 
 # 🚀 Tech Stack
