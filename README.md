@@ -21,66 +21,63 @@
 📄 [**Check My Resume Here!**](https://drive.google.com/file/d/1o1mWk8AtQ0Duc9UNoSVsh0Odv2F_UdOE/view?usp=sharing)
 
 ---
-
 ## 🚀 Featured Projects
 
 <table align="center">
   <tr>
-    <td align="center" width="220">
+    <td align="center" width="230">
       <a href="https://github.com/Ajay-Kumar-Prasad/ECOMMERCE-WEBSITE">
         <img src="https://img.icons8.com/color/96/shopping-cart.png" width="60"/><br>
         <b>E-commerce Website</b>
       </a><br>
-      <sub>🛒 MERN Stack | AI Recommendations | Authentication</sub><br>
-      <sub>Full-fledged online store with cart, filters, and AI-based product recommendations.</sub>
+      <sub>🛒 MERN Stack | AI Recommendations | Secure Auth</sub><br>
+      <sub>Full-stack e-commerce platform providing a seamless shopping experience with cart, search, and product recommendation features.</sub>
     </td>
-    <td align="center" width="220">
-      <a href="https://github.com/Ajay-Kumar-Prasad/Housing_Prediction_Linear_Reg_Project">
-        <img src="https://img.icons8.com/color/96/home-page.png" width="60"/><br>
-        <b>Housing Price Prediction</b>
-      </a><br>
-      <sub> Linear Regression | Data Preprocessing | Visualization</sub><br>
-      <sub>Predicts house prices using essential housing features and regression analysis.</sub>
-    </td>
-    <td align="center" width="220">
-      <a href="https://github.com/Ajay-Kumar-Prasad/Heart_Disease_Prediction_Random_Forest_Classifier">
-        <img src="https://img.icons8.com/color/96/heart-with-pulse.png" width="60"/><br>
-        <b>Heart Disease Prediction</b>
-      </a><br>
-      <sub> Random Forest | Scikit-learn | Streamlit</sub><br>
-      <sub>Predicts heart disease likelihood based on medical parameters.</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="220">
+    <td align="center" width="230">
       <a href="https://github.com/Ajay-Kumar-Prasad/Email_Spam_Classifier_using_Naive_Bayes">
         <img src="https://img.icons8.com/color/96/email.png" width="60"/><br>
         <b>Email Spam Classifier</b>
       </a><br>
-      <sub>📧 NLP | Naive Bayes | TF-IDF</sub><br>
-      <sub>Detects spam emails using probabilistic NLP models.</sub>
+      <sub>📧 Streamlit | Naive Bayes | NLP</sub><br>
+      <sub>Classifies emails or SMS messages as Spam or Not Spam using a trained Naive Bayes model on labeled text datasets.</sub>
     </td>
-    <td align="center" width="220">
-      <a href="https://github.com/Ajay-Kumar-Prasad/Calories_Burnt_Prediction_Using_XGBoost_Regressor">
-        <img src="https://img.icons8.com/color/96/fire-element.png" width="60"/><br>
-        <b>Calories Burnt Prediction</b>
+    <td align="center" width="230">
+      <a href="https://github.com/Ajay-Kumar-Prasad/DSA-Problems-Tracker">
+        <img src="https://img.icons8.com/color/96/source-code.png" width="60"/><br>
+        <b>DSA Problems Tracker</b>
       </a><br>
-      <sub> XGBoost | Regression | Fitness Data</sub><br>
-      <sub>Estimates calories burnt from activity data using gradient boosting.</sub>
+      <sub>💻 C++ | Algorithms | Problem Solving</sub><br>
+      <sub>Curated collection of solved DSA problems with detailed theory, explanations, and C++ implementations.</sub>
     </td>
-    <td align="center" width="220">
+  </tr>
+
+  <tr>
+    <td align="center" width="230">
       <a href="https://github.com/Ajay-Kumar-Prasad/MyMegaProject">
         <img src="https://img.icons8.com/color/96/airbnb.png" width="60"/><br>
         <b>Airbnb Website Clone</b>
       </a><br>
-      <sub> HTML | CSS | JavaScript</sub><br>
-      <sub>A responsive Airbnb-style interface showcasing rental listings.</sub>
+      <sub>🏡 Node.js | Express.js | MongoDB</sub><br>
+      <sub>Responsive Airbnb clone built while learning backend web development, featuring listings, authentication, and basic CRUD operations.</sub>
+    </td>
+    <td align="center" width="230">
+      <a href="https://github.com/Ajay-Kumar-Prasad/jarvis">
+        <img src="https://img.icons8.com/color/96/robot-2.png" width="60"/><br>
+        <b>Jarvis AI Assistant</b>
+      </a><br>
+      <sub>🤖 Python | Web Automation | NLP</sub><br>
+      <sub>AI-powered personal assistant capable of web searching, YouTube playback, and product ordering through automated browser control.</sub>
+    </td>
+    <td align="center" width="230">
+      <a href="https://github.com/Ajay-Kumar-Prasad/Smart-Quality-Inspection-System">
+        <img src="https://img.icons8.com/color/96/inspection.png" width="60"/><br>
+        <b>Smart Quality Inspection System</b>
+      </a><br>
+      <sub>⚙️ Computer Vision | Deep Learning | MLOps</sub><br>
+      <sub>AI-based defect detection system for industrial manufacturing using image processing, model training, and MLOps workflow.</sub>
     </td>
   </tr>
 </table>
-
-
 ---
 
 # 🚀 Tech Stack
