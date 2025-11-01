@@ -155,17 +155,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-Kumar-Prasad&theme=radical" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ajay-Kumar-Prasad&theme=tokyonight&hide_border=false&layout=compact" height="180"/>
-</p>
-
 ### 🏆 GitHub Trophies 
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=Ajay-Kumar-Prasad&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&row=1"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ajay-Kumar-Prasad&theme=tokyonight&hide_border=false&layout=compact" height="180"/>
 </p>
 
 ## 📈 Contribution Graph
