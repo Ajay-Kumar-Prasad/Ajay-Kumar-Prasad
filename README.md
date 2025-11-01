@@ -23,7 +23,9 @@
 ---
 <div align="center">
 
-# 🌟 **Featured Projects**
+# 🎨 **Featured Projects**
+
+✨ *Where logic meets design. A collection of my favorite builds across AI, Web, and Data.*
 
 </div>
 
@@ -33,67 +35,62 @@
   <tr>
     <td align="center" width="260" style="border:none;">
       <a href="https://github.com/Ajay-Kumar-Prasad/ECOMMERCE-WEBSITE">
-        <img src="https://img.icons8.com/external-flat-juicy-fish/96/external-ecommerce-online-shopping-flat-flat-juicy-fish-2.png" width="70"/><br>
-        <b>E-Commerce Website</b>
+        <img src="https://img.icons8.com/color/96/shopify.png" width="75"/><br>
+        <b><span style="color:#8A2BE2;">E-Commerce Website</span></b>
       </a><br>
       <sub><b>Tech:</b> MERN Stack | AI Recommendations | JWT Auth</sub><br>
-      <sub>Seamless online shopping experience with dynamic cart, search, and recommendation engine.</sub>
+      <sub><span style="color:#C71585;">A full-stack platform for a seamless shopping experience — cart, search, and AI-powered product suggestions.</span></sub>
     </td>
     <td align="center" width="260" style="border:none;">
       <a href="https://github.com/Ajay-Kumar-Prasad/Email_Spam_Classifier_using_Naive_Bayes">
-        <img src="https://img.icons8.com/color/96/mail-filter.png" width="70"/><br>
-        <b>Email Spam Classifier</b>
+        <img src="https://img.icons8.com/color/96/mailbox-closed-flag-up--v1.png" width="75"/><br>
+        <b><span style="color:#FF4500;">Email Spam Classifier</span></b>
       </a><br>
       <sub><b>Tech:</b> Streamlit | Naive Bayes | NLP</sub><br>
-      <sub>Machine learning web app that classifies emails or SMS as spam or not using NLP-based text models.</sub>
+      <sub><span style="color:#DC143C;">Detects and filters spam messages using probabilistic NLP models with a clean Streamlit interface.</span></sub>
     </td>
     <td align="center" width="260" style="border:none;">
       <a href="https://github.com/Ajay-Kumar-Prasad/DSA-Problems-Tracker">
-        <img src="https://img.icons8.com/color/96/source-code.png" width="70"/><br>
-        <b>DSA Problems Tracker</b>
+        <img src="https://img.icons8.com/color/96/flow-chart.png" width="75"/><br>
+        <b><span style="color:#00BFFF;">DSA Problems Tracker</span></b>
       </a><br>
-      <sub><b>Tech:</b> C++ | Data Structures | Algorithms</sub><br>
-      <sub>A structured tracker of solved DSA problems with theory, explanations, and detailed C++ solutions.</sub>
+      <sub><b>Tech:</b> C++ | Algorithms | Data Structures</sub><br>
+      <sub><span style="color:#20B2AA;">Organized repository of DSA problems with detailed logic, explanations, and clean C++ implementations.</span></sub>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="260" style="border:none;">
       <a href="https://github.com/Ajay-Kumar-Prasad/MyMegaProject">
-        <img src="https://img.icons8.com/color/96/airbnb.png" width="70"/><br>
-        <b>Airbnb Clone</b>
+        <img src="https://img.icons8.com/color/96/airbnb.png" width="75"/><br>
+        <b><span style="color:#FFA500;">Airbnb Clone</span></b>
       </a><br>
       <sub><b>Tech:</b> Node.js | Express.js | MongoDB</sub><br>
-      <sub>Responsive Airbnb-inspired website with property listings, authentication, and backend integration.</sub>
+      <sub><span style="color:#DAA520;">Responsive Airbnb-style website featuring listings, authentication, and backend CRUD operations.</span></sub>
     </td>
     <td align="center" width="260" style="border:none;">
       <a href="https://github.com/Ajay-Kumar-Prasad/jarvis">
-        <img src="https://img.icons8.com/color/96/robot-2.png" width="70"/><br>
-        <b>Jarvis AI Assistant</b>
+        <img src="https://img.icons8.com/color/96/robot-2.png" width="75"/><br>
+        <b><span style="color:#7CFC00;">Jarvis AI Assistant</span></b>
       </a><br>
       <sub><b>Tech:</b> Python | Web Automation | NLP</sub><br>
-      <sub>Personal AI assistant for web automation — searches the web, plays YouTube videos, and executes tasks.</sub>
+      <sub><span style="color:#32CD32;">AI-based assistant that automates web tasks — searches, plays videos, and interacts intelligently.</span></sub>
     </td>
     <td align="center" width="260" style="border:none;">
       <a href="https://github.com/Ajay-Kumar-Prasad/Smart-Quality-Inspection-System">
-        <img src="https://img.icons8.com/color/96/inspection.png" width="70"/><br>
-        <b>Smart Quality Inspection System</b>
+        <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="75"/><br>
+        <b><span style="color:#00FA9A;">Smart Quality Inspection System</span></b>
       </a><br>
       <sub><b>Tech:</b> Computer Vision | Deep Learning | MLOps</sub><br>
-      <sub>AI-powered defect detection for manufacturing pipelines, combining CV models with MLOps automation.</sub>
+      <sub><span style="color:#2E8B57;">AI-powered defect detection for manufacturing pipelines with integrated MLOps workflow.</span></sub>
     </td>
   </tr>
 </table>
 
 ---
-
 <div align="center">
-
-✨ *Each project reflects my journey toward building intelligent, scalable, and impactful systems.*  
-⭐ Feel free to explore, fork, or contribute!
-
+⭐ Explore the repos, drop a star if something makes your inner geek smile.
 </div>
-
 ---
 
 # 🚀 Tech Stack
