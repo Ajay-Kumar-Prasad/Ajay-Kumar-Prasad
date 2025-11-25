@@ -28,7 +28,7 @@
 - 🧠 Solved **100+ DSA problems** on LeetCode  
 
 
-📄 [**Check My Resume Here!**](https://drive.google.com/file/d/1o1mWk8AtQ0Duc9UNoSVsh0Odv2F_UdOE/view?usp=sharing)
+📄 [**Check My Resume Here!**](https://drive.google.com/file/d/1lktrsnEpg2awy66DjVOIAUspnFsTX6Ji/view?usp=sharing)
 
 ---
 <div align="center">
