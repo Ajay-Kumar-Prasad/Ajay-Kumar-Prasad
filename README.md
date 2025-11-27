@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://www.banjaracamps.com/images/hero-banner/moods-hues-hero-banner.jpg" alt="Header Banner"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlfisklW0rnA7NvcS5AK3mTUDemLtr1r90Pg&s" alt="Header Banner"/>
 </p>
 
 <p align="center">
