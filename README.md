@@ -168,12 +168,12 @@
 
 ### 🏆 GitHub Trophies 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=Ajay-Kumar-Prasad&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&row=1"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=Ajay-Kumar-Prasad&theme=flat&row=1&margin-w=8&no-frame=true&cache_seconds=1800"/>
 </p>
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajay-Kumar-Prasad&theme=tokyo-night&hide_border=true&area=true" alt="Ajay's Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajay-Kumar-Prasad&theme=github-dark&hide_border=true&area=true&cache_seconds=1800"/>
 </p>
 
 ## 🧩 LeetCode Stats
