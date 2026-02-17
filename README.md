@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://www.therandomvibez.com/wp-content/uploads/2025/10/inspirational-quotes-for-linkedin-banner%E2%80%8B.jpg" alt="Header Banner"/>
+  <img src="https://i.pinimg.com/736x/7b/fd/87/7bfd875e85fbbed980e9df59bcde8579.jpg" alt="Header Banner"/>
 </p>
 
 <p align="center">
