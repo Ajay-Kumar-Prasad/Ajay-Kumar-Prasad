@@ -179,7 +179,7 @@
     height="180"
   />
   <img 
-    src="https://github-readme-stats-gamma-wine-88.vercel.app/api?username=Ajay-Kumar-Prasad&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" 
+    src="https://github-readme-stats-gamma-wine-88.vercel.app/api/top-langs/?username=Ajay-Kumar-Prasad&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" 
     height="180"
   />
 </p>
