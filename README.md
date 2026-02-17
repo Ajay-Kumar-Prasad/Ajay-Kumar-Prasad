@@ -20,6 +20,7 @@
 - ⚙️ Strong in DSA, system thinking, and shipping real-world projects
 - 🌍 Targeting global impact — research + engineering for high-performance AI
 ---
+<img src="astronaut.png" width="350" align="right"/>
 
 ### 🏅 Achievements
 - 🥇 **Team Leader** – Smart India Hackathon 2024 & 2025 (AI-Powered Solutions)  
@@ -106,8 +107,6 @@
 ---
 
 # 🚀 Tech Stack
-
-<img src="astronaut.png" width="350" align="right"/>
 
 ## 🖥️ Languages
 <p>
