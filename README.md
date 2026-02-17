@@ -15,9 +15,10 @@
 
 ### 👨‍💻 About Me
 🎓 B.Tech CSE student at **NIT Andhra Pradesh**, blending curiosity with code.  
-💡 I build intelligent systems across **Machine Learning, Generative AI, and Full-Stack Development**.  
-🚀 Currently exploring **MLOps workflows, Hyperspectral Image Classification, and AI-powered Web Apps** to push projects from idea to impact.  
-
+🧠 AI Engineer in the making — building at the intersection of Machine Learning, Generative AI, and Scalable Systems
+🚀 Currently working on production-grade AI systems, MLOps pipelines, and full-stack AI applications  
+⚙️ Strong in DSA, system thinking, and shipping real-world projects
+🌍 Targeting global impact — research + engineering for high-performance AI
 ---
 
 ### 🏅 Achievements
@@ -25,7 +26,7 @@
 - 💻 **React Developer Intern** – Ionic Webcreator Pvt. Ltd.  
 - 📊 **JEE Mains State Topper (2023)** representing **Sikkim**  
 - ⚙️ Built 5+ end-to-end projects in **MERN Stack, AI, and Computer Vision**  
-- 🧠 Solved **100+ DSA problems** on LeetCode  
+- 🧠 Solved **150+ DSA problems** on LeetCode  
 
 
 📄 [**Check My Resume Here!**](https://drive.google.com/file/d/1lktrsnEpg2awy66DjVOIAUspnFsTX6Ji/view?usp=sharing)
