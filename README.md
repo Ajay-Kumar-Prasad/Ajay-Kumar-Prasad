@@ -170,16 +170,16 @@
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/></td>
 </tr>
 </table>
----
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajay-Kumar-Prasad&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Kumar-Prasad&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajay-Kumar-Prasad&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Kumar-Prasad&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-Kumar-Prasad&theme=radical" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Ajay-Kumar-Prasad&theme=radical&hide_border=true" height="180"/>
 </p>
 
 ## 📈 Contribution Graph
