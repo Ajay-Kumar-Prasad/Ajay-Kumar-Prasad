@@ -164,7 +164,7 @@
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/></td>
 <td align="center">
-  <img src="Github.png" width="60" style="object-fit: contain;"/>
+  <img src="Github.png" width="80" style="object-fit: contain;"/>
 </td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/></td>
