@@ -14,11 +14,11 @@
 ---
 
 ### 👨‍💻 About Me
-🎓 B.Tech CSE student at **NIT Andhra Pradesh**, blending curiosity with code.  
-🧠 AI Engineer in the making — building at the intersection of Machine Learning, Generative AI, and Scalable Systems
-🚀 Currently working on production-grade AI systems, MLOps pipelines, and full-stack AI applications  
-⚙️ Strong in DSA, system thinking, and shipping real-world projects
-🌍 Targeting global impact — research + engineering for high-performance AI
+- 🎓 B.Tech CSE student at **NIT Andhra Pradesh**, blending curiosity with code.  
+- 🧠 AI Engineer in the making — building at the intersection of Machine Learning, Generative AI, and Scalable Systems
+- 🚀 Currently working on production-grade AI systems, MLOps pipelines, and full-stack AI applications  
+- ⚙️ Strong in DSA, system thinking, and shipping real-world projects
+- 🌍 Targeting global impact — research + engineering for high-performance AI
 ---
 
 ### 🏅 Achievements
