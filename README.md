@@ -107,6 +107,8 @@
 
 # 🚀 Tech Stack
 
+<img src="astronaut.png" width="350" align="right"/>
+
 ## 🖥️ Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
