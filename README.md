@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/39/18/67/391867b1e17f07cf2b12b278d24e8484.jpg" alt="Header Banner"/>
+  <img src="https://i.pinimg.com/1200x/d7/a0/e0/d7a0e07686e15945172b31787f08ce77.jpg" alt="Header Banner"/>
 </p>
 
 <p align="center">
