@@ -23,7 +23,7 @@
 ### 🏅 Achievements
 - 🥇 **Team Leader** – Smart India Hackathon 2024 & 2025 (AI-Powered Solutions)  
 - 💻 **React Developer Intern** – Ionic Webcreator Pvt. Ltd.  
-- 📊 **JEE Mains Topper (2023)** representing **Sikkim**  
+- 📊 **JEE Mains State Topper (2023)** representing **Sikkim**  
 - ⚙️ Built 5+ end-to-end projects in **MERN Stack, AI, and Computer Vision**  
 - 🧠 Solved **100+ DSA problems** on LeetCode  
 
