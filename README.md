@@ -171,7 +171,7 @@
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br/><b style="font-size:14px;">Git</b></td>
 <td align="center">
-  <img src="Github.png" width="120" style="object-fit: contain;"/><br/><b style="font-size:14px;">GitHub</b>
+  <img src="Github.png" width="60" style="object-fit: contain;"/><br/><b style="font-size:14px;">GitHub</b>
 </td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/><br/><b style="font-size:14px;">Linux</b></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/><br/><b style="font-size:14px;">VS Code</b>
