@@ -162,8 +162,71 @@
 </table>
 
 <br/>
+<table align="center">
+<tr>
 
-<p align="center">
+<td valign="top" align="center" style="padding-right:40px;">
+
+  <p>
+    <img src="https://img.shields.io/badge/ML%20%26%20Research%20Tools-111827?style=for-the-badge&color=111827"/>
+  </p>
+
+  <table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60"/><br/>
+      <span style="font-size:13px; font-weight:600; letter-spacing:0.5px;">Jupyter</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="60"/><br/>
+      <span style="font-size:13px; font-weight:600; letter-spacing:0.5px;">Google Colab</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="60"/><br/>
+      <span style="font-size:13px; font-weight:600; letter-spacing:0.5px;">Kaggle</span>
+    </td>
+  </tr>
+  </table>
+
+</td>
+
+<td valign="top" align="center">
+
+  <p>
+    <img src="https://img.shields.io/badge/Developer_Tools-111827?style=for-the-badge&color=111827"/>
+  </p>
+
+  <table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br/>
+      <span style="font-size:13px; font-weight:600; letter-spacing:0.5px;">Git</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/><br/>
+      <span style="font-size:13px; font-weight:600; letter-spacing:0.5px;">GitHub</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/><br/>
+      <span style="font-size:13px; font-weight:600; letter-spacing:0.5px;">Linux</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/><br/>
+      <span style="font-size:13px; font-weight:600; letter-spacing:0.5px;">VS Code</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60"/><br/>
+      <span style="font-size:13px; font-weight:600; letter-spacing:0.5px;">IntelliJ IDEA</span>
+    </td>
+  </tr>
+  </table>
+
+</td>
+
+</tr>
+</table>
+
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/ML & Research Tools-111827?style=for-the-badge&color=111827"/>
 </p>
 
@@ -214,7 +277,7 @@
   </span>
 </td>
 </tr>
-</table>
+</table> -->
 
 ## 📊 GitHub Stats
 
