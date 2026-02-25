@@ -174,7 +174,14 @@
   <img src="Github.png" width="120" style="object-fit: contain;"/><br/><b style="font-size:14px;">GitHub</b>
 </td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/><br/><b style="font-size:14px;">Linux</b></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/><br/><b style="font-size:14px;">VS Code</b></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/><br/><b style="font-size:14px;">VS Code</b>
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60"/><br/>
+  <span style="font-size:13px; font-weight:600; letter-spacing:0.5px;">
+    IntelliJ IDEA
+  </span>
+</td>
 </tr>
 </table>
 
