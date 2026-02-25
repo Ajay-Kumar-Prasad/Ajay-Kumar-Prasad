@@ -164,6 +164,37 @@
 <br/>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/ML & Research Tools-111827?style=for-the-badge&color=111827"/>
+</p>
+
+<table align="center">
+<tr>
+
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60"/><br/>
+  <span style="font-size:13px; font-weight:600; letter-spacing:0.5px;">
+    Jupyter
+  </span>
+</td>
+
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="60"/><br/>
+  <span style="font-size:13px; font-weight:600; letter-spacing:0.5px;">
+    Google Colab
+  </span>
+</td>
+
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="60"/><br/>
+  <span style="font-size:13px; font-weight:600; letter-spacing:0.5px;">
+    Kaggle
+  </span>
+</td>
+
+</tr>
+</table>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Developer_Tools-111827?style=for-the-badge&color=111827"/>
 </p>
 
