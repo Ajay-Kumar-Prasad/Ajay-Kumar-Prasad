@@ -203,7 +203,7 @@
       <span style="font-size:13px; font-weight:600; letter-spacing:0.5px;">Git</span>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/><br/>
+      <img src="githublogo.webp" width="60"/><br/>
       <span style="font-size:13px; font-weight:600; letter-spacing:0.5px;">GitHub</span>
     </td>
     <td align="center">
