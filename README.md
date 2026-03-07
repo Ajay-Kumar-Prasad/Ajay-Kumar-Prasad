@@ -305,11 +305,20 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajay-Kumar-Prasad&theme=github-dark&hide_border=true&area=true&cache_seconds=1800"/>
 </p>
 
-## 🧩 LeetCode Stats
+## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ajay-Kumar-Prasad?theme=dark&font=Karma&ext=heatmap)
-![LeetCode Topics](https://leetcode-stats-six.vercel.app/?username=Ajay-Kumar-Prasad&theme=dark)
-![LeetCode user](https://img.shields.io/badge/LeetCode-Ajay-Kumar-Prasad-orange)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Ajay-Kumar-Prasad?theme=dark&font=Karma&ext=heatmap" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=Ajay-Kumar-Prasad&theme=dark" height="250"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-Ajay--Kumar--Prasad-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</p>
+
 ---
 
 ## 📫 Connect with me
