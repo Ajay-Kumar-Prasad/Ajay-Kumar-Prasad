@@ -312,7 +312,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Ajay-Kumar-Prasad&theme=dark" height="250"/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Ajay-Kumar-Prasad&theme=dark" />
 </p>
 
 <p align="center">
