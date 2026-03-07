@@ -305,19 +305,62 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajay-Kumar-Prasad&theme=github-dark&hide_border=true&area=true&cache_seconds=1800"/>
 </p>
 
-## 🧠 LeetCode Stats
+<h2 align="center">🧠 LeetCode Stats</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Ajay-Kumar-Prasad?theme=dark&font=Karma&ext=heatmap" height="200"/>
+  <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Ajay-Kumar-Prasad&theme=dark" />
-</p>
+<br>
+
+<table align="center">
+<tr>
+<td align="center">
+
+<img src="https://leetcard.jacoblin.cool/Ajay-Kumar-Prasad?theme=dark&font=Baloo&ext=heatmap" height="220"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ajay-Kumar-Prasad&show_icons=true&theme=tokyonight" height="220"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h3 align="center">⚡ Problem Solving Journey</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Ajay--Kumar--Prasad-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Easy-Problems-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Medium-Problems-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hard-Problems-red?style=for-the-badge"/>
 </p>
+
+<br>
+
+<h3 align="center">📊 Algorithm Focus</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arrays-DSA-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Graphs-Algorithms-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Dynamic%20Programming-Advanced-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Trees-Data%20Structures-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Sliding%20Window-Technique-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Binary%20Search-Optimization-blueviolet?style=flat-square"/>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://leetcode.com/Ajay-Kumar-Prasad/">
+    <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
 
 ---
 
