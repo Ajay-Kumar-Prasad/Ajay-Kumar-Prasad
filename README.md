@@ -308,7 +308,8 @@
 ## 🧩 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ajay-Kumar-Prasad?theme=dark&font=Karma&ext=heatmap)
-
+![LeetCode Topics](https://leetcode-stats-six.vercel.app/?username=Ajay-Kumar-Prasad&theme=dark)
+![LeetCode user](https://img.shields.io/badge/LeetCode-Ajay-Kumar-Prasad-orange)
 ---
 
 ## 📫 Connect with me
