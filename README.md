@@ -305,11 +305,6 @@
   <img src="https://leetcard.jacoblin.cool/Ajay-Kumar-Prasad?theme=dark&font=Baloo&ext=heatmap" height="200"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Ajay--Kumar--Prasad-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solved-100%2B-blue?style=for-the-badge"/>
-</p>
----
 
 ## 📫 Connect with me
 
