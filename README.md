@@ -52,7 +52,7 @@
   <tr>
     <td align="center" width="260" style="border:none;">
       <a href="https://github.com/Ajay-Kumar-Prasad/Saarthi-AI">
-        <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="75"/><br>
+        <img src="<img src="https://img.icons8.com/color/96/mind-map.png" width="75"/>" width="75"/><br>
         <b><span style="color:#00FA9A;">Saarthi AI</span></b>
       </a><br>
       <sub><b>Tech:</b> Google ADK | RAG | AlloyDB | pgvector | GCP</sub><br>
