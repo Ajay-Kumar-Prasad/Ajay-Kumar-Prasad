@@ -5,30 +5,34 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B6B;FFA500;32CD32;1E90FF&center=true&vCenter=true&width=850&lines=Hi+It's+Me!!+Ajay+👋;Full+Stack%20%7C%20ML%20%7C%20Generative+AI%20Enthusiast;Always+Learning+New+Tech!"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Ajay+Kumar+Prasad+👋;Software+Engineer+%7C+Generative+AI+Engineer;Full-Stack+Developer+%7C+Problem+Solver;Building+AI+Products+for+Real-World+Impact+🚀"/>
   </a>
 </p>
-
-
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 B.Tech CSE student at **NIT Andhra Pradesh**, blending curiosity with code.  
-- 🧠 AI Engineer in the making — building at the intersection of Machine Learning, Generative AI, and Scalable Systems
-- 🚀 Currently working on production-grade AI systems, MLOps pipelines, and full-stack AI applications  
-- ⚙️ Strong in DSA, system thinking, and shipping real-world projects
-- 🌍 Targeting global impact — research + engineering for high-performance AI
+
+* 🎓 Pre-final year **Computer Science Engineering** student at **NIT Andhra Pradesh** (CGPA: 8.6/10)
+* 🤖 Passionate about building intelligent systems at the intersection of **Generative AI, Machine Learning, and Software Engineering**
+* 🚀 Currently developing **production-grade AI applications**, multi-agent systems, RAG pipelines, and distributed backend architectures
+* 💻 Strong foundation in **Data Structures & Algorithms, System Design, Operating Systems, DBMS, and Computer Networks**
+* ☁️ Experienced with **GCP, Docker, Kubernetes, FastAPI, React, PostgreSQL, and Redis** for scalable application development
+* 🏆 Team Lead at **Smart India Hackathon 2024 & 2025 National Finals** and solved **300+ LeetCode problems**
+* 🌍 Aspiring to build impactful AI-powered products and scalable software solutions for a global audience
+
 ---
 <img src="astronaut.png" width="350" align="right"/>
 
 ### 🏅 Achievements
-- 🥇 **Team Leader** – Smart India Hackathon 2024 & 2025 (AI-Powered Solutions)  
-- 💻 **React Developer Intern** – Ionic Webcreator Pvt. Ltd.  
-- 📊 **JEE Mains State Topper (2023)** representing **Sikkim**  
-- ⚙️ Built 5+ end-to-end projects in **MERN Stack, AI, and Computer Vision**  
-- 🧠 Solved **150+ DSA problems** on LeetCode  
 
+* 🏆 **Team Lead, Smart India Hackathon 2024 & 2025** – Led a 6-member team to the National Finals, delivering AI-driven solutions under 36-hour innovation sprints
+* 🤖 **Generative AI & Computer Vision Engineer Intern** at Triksha Health, building scalable AI pipelines and distributed backend systems
+* 💻 **Frontend Engineer Intern** at IonicWeb Creator Pvt. Ltd., developing high-performance React applications for production use
+* 📊 **JEE Mains State Topper (Sikkim, 2023)** and secured admission to **NIT Andhra Pradesh**
+* 🧠 Solved **300+ LeetCode problems** across Graphs, Dynamic Programming, Trees, and Greedy Algorithms
+* 🎓 Achieved **Elite Certification** in Deep Learning & Generative AI from **NPTEL/IIT Ropar**, ranking among the top performers nationwide
+* 🚀 Built multiple end-to-end projects spanning **Generative AI, RAG Systems, Full-Stack Development, Search Engines, and Distributed Systems**
 
 📄 [**Check My Resume Here!**](https://drive.google.com/file/d/1lktrsnEpg2awy66DjVOIAUspnFsTX6Ji/view?usp=sharing)
 
