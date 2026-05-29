@@ -50,13 +50,22 @@
 * 🎓 Achieved **Elite Certification** in Deep Learning & Generative AI from **NPTEL/IIT Ropar**, ranking among the top performers nationwide
 * 🚀 Built multiple end-to-end projects spanning **Generative AI, RAG Systems, Full-Stack Development, Search Engines, and Distributed Systems**
 
-📄 [**Check My Resume Here!**](https://drive.google.com/file/d/1lktrsnEpg2awy66DjVOIAUspnFsTX6Ji/view?usp=sharing)
+<p align="center">
+  <a href="https://drive.google.com/file/d/1lktrsnEpg2awy66DjVOIAUspnFsTX6Ji/view?usp=sharing" target="_blank">
+    <img src="https://img.icons8.com/color/48/resume.png" width="28"/>
+    <b> View My Resume</b>
+  </a>
+</p>
+
 
 ---
 
 <div align="center">
 
-# 🎨 **Featured Projects**
+<h2 align="center">
+  <img src="https://img.icons8.com/color/48/idea.png" width="32"/>
+  Featured Projects
+</h2>
 
 ✨ *Where logic meets design. A collection of my favorite builds across AI, Web, and Data.*
 
@@ -198,14 +207,18 @@
   </tr>
 </table>
 
----
 <div align="center">
 ⭐ Explore the repos, drop a star if something makes your inner geek smile.
-</div> -->
+</div>
+<h2 align="center">
+  <img src="https://img.icons8.com/color/48/developer.png" width="32"/>
+  Technology Stack
+</h2>
 
-## 🚀 Technology Stack
-
-### 💻 Languages
+<h3 align="center">
+  <img src="https://img.icons8.com/color/48/source-code.png" width="28"/>
+  Languages
+</h3>
 
 <p align="center">
 
@@ -213,7 +226,10 @@
 
 </p>
 
-### 🌐 Full-Stack Development
+<h3 align="center">
+  <img src="https://img.icons8.com/color/48/web-design.png" width="28"/>
+  Full-Stack Development
+</h3>
 
 <p align="center">
 
@@ -221,7 +237,10 @@
 
 </p>
 
-### 🗄️ Databases & Storage
+<h3 align="center">
+  <img src="https://img.icons8.com/color/48/database.png" width="28"/>
+  Databases & Storage
+</h3>
 
 <p align="center">
 
@@ -229,7 +248,10 @@
 
 </p>
 
-### 🤖 AI / ML / Generative AI
+<h3 align="center">
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="28"/>
+  AI / ML / Generative AI
+</h3>
 
 <p align="center">
 
@@ -237,7 +259,10 @@
 
 </p>
 
-### ☁️ Cloud & DevOps
+<h3 align="center">
+  <img src="https://img.icons8.com/color/48/cloud.png" width="28"/>
+  Cloud & DevOps
+</h3>
 
 <p align="center">
 
@@ -245,7 +270,10 @@
 
 </p>
 
-### 🛠️ Developer Tools
+<h3 align="center">
+  <img src="https://img.icons8.com/color/48/maintenance.png" width="28"/>
+  Developer Tools
+</h3>
 
 <p align="center">
 
@@ -253,7 +281,10 @@
 
 </p>
 
-## 📊 GitHub Stats
+<h2 align="center">
+  <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="32"/>
+  GitHub Stats
+</h2>
 
 <p align="center">
   <img 
@@ -273,7 +304,10 @@
   />
 </p>
 
-## 🧠 LeetCode Stats
+<h2 align="center">
+  <img src="https://img.icons8.com/color/48/flow-chart.png" width="32"/>
+  LeetCode Stats
+</h2>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Ajay-Kumar-Prasad?theme=dark&font=Baloo&ext=heatmap" height="200"/>
