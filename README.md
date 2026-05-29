@@ -95,7 +95,7 @@
 
 <td align="center" width="260" style="border:none;">
   <a href="https://github.com/Ajay-Kumar-Prasad/JD_Bias_Detector">
-    <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="75"/><br>
+    <img src="https://img.icons8.com/color/96/scales.png" width="75"/><br>
     <b><span style="color:#FF69B4;">JD Bias Detector</span></b>
   </a><br>
   <sub><b>Tech:</b> DeBERTa-v3 | FastAPI | Streamlit | Hugging Face</sub><br>
@@ -211,12 +211,12 @@
 ⭐ Explore the repos, drop a star if something makes your inner geek smile.
 </div>
 -->
-<h2 align="center">
+<h2">
   <img src="https://img.icons8.com/color/48/developer.png" width="32"/>
   Technology Stack
 </h2>
 
-<h3 align="center">
+<h3>
   <img src="https://img.icons8.com/color/48/source-code.png" width="28"/>
   Languages
 </h3>
@@ -227,7 +227,7 @@
 
 </p>
 
-<h3 align="center">
+<h3>
   <img src="https://img.icons8.com/color/48/web-design.png" width="28"/>
   Full-Stack Development
 </h3>
@@ -238,7 +238,7 @@
 
 </p>
 
-<h3 align="center">
+<h3>
   <img src="https://img.icons8.com/color/48/database.png" width="28"/>
   Databases & Storage
 </h3>
@@ -249,7 +249,7 @@
 
 </p>
 
-<h3 align="center">
+<h3>
   <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="28"/>
   AI / ML / Generative AI
 </h3>
@@ -260,7 +260,7 @@
 
 </p>
 
-<h3 align="center">
+<h3>
   <img src="https://img.icons8.com/color/48/cloud.png" width="28"/>
   Cloud & DevOps
 </h3>
@@ -271,7 +271,7 @@
 
 </p>
 
-<h3 align="center">
+<h3>
   <img src="https://img.icons8.com/color/48/maintenance.png" width="28"/>
   Developer Tools
 </h3>
