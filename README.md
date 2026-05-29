@@ -206,10 +206,11 @@
     </td>
   </tr>
 </table>
-
+<--
 <div align="center">
 ⭐ Explore the repos, drop a star if something makes your inner geek smile.
 </div>
+-->
 <h2 align="center">
   <img src="https://img.icons8.com/color/48/developer.png" width="32"/>
   Technology Stack
