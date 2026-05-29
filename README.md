@@ -59,7 +59,6 @@
       <sub><span style="color:#2E8B57;">Multi-agent personal intelligence system with semantic memory, NL-to-SQL querying, and contextual recommendations across productivity, learning, finance, and health.</span></sub>
     </td>
 
-```
 <td align="center" width="260" style="border:none;">
   <a href="https://github.com/Ajay-Kumar-Prasad/financial-health-agent">
     <img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="75"/><br>
@@ -77,7 +76,6 @@
   <sub><b>Tech:</b> DeBERTa-v3 | FastAPI | Streamlit | Hugging Face</sub><br>
   <sub><span style="color:#C71585;">Production-ready NLP system that detects biased language in job descriptions, explains risks, generates inclusive rewrites, and calculates inclusivity scores.</span></sub>
 </td>
-```
 
   </tr>
 
@@ -90,8 +88,7 @@
       <sub><b>Tech:</b> Python | Transformers | Redis | Async I/O</sub><br>
       <sub><span style="color:#32CD32;">Concurrent AI-powered search and summarization engine with multi-source retrieval, transformer-based summarization, caching, and low-latency processing.</span></sub>
     </td>
-
-```
+    
 <td align="center" width="260" style="border:none;">
   <a href="https://github.com/Ajay-Kumar-Prasad/ECOMMERCE-WEBSITE">
     <img src="https://img.icons8.com/color/96/shopify.png" width="75"/><br>
@@ -109,7 +106,6 @@
   <sub><b>Tech:</b> C++ | Algorithms | Data Structures</sub><br>
   <sub><span style="color:#20B2AA;">Curated repository of 300+ coding problems with optimized solutions, explanations, and patterns across major DSA topics.</span></sub>
 </td>
-```
 
   </tr>
 </table>
