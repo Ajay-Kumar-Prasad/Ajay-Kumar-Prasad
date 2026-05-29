@@ -9,6 +9,22 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:ajayk10440@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/Ajay-Kumar-Prasad">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ajay-Kumar-Prasad&label=Profile+Views&color=blue&style=flat" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -99,12 +115,12 @@
 </td>
 
 <td align="center" width="260" style="border:none;">
-  <a href="https://github.com/Ajay-Kumar-Prasad/DSA-Problems-Tracker">
-    <img src="https://img.icons8.com/color/96/flow-chart.png" width="75"/><br>
-    <b><span style="color:#00BFFF;">DSA Problems Tracker</span></b>
+  <a href="https://github.com/Ajay-Kumar-Prasad/Smart-Quality-Inspection-System">
+    <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="75"/><br>
+    <b><span style="color:#00BFFF;">Smart Quality Inspection</span></b>
   </a><br>
-  <sub><b>Tech:</b> C++ | Algorithms | Data Structures</sub><br>
-  <sub><span style="color:#20B2AA;">Curated repository of 300+ coding problems with optimized solutions, explanations, and patterns across major DSA topics.</span></sub>
+  <sub><b>Tech:</b> Computer Vision | Deep Learning | MLOps</sub><br>
+  <sub><span style="color:#20B2AA;">AI-powered defect detection system for manufacturing pipelines using computer vision, deep learning models, and automated MLOps workflows.</span></sub>
 </td>
 
   </tr>
@@ -189,11 +205,15 @@
 
 ## 🚀 Technology Stack
 
+### 💻 Languages
+
 <p align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> Python     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> C++     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> Java     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> JavaScript     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> TypeScript
 
 </p>
+
+### 🌐 Full-Stack Development
 
 <p align="center">
 
@@ -201,27 +221,38 @@
 
 </p>
 
+### 🗄️ Databases & Storage
+
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> PostgreSQL     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> MongoDB     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> MySQL     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/> Redis
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> PostgreSQL     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> MongoDB     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> MySQL     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/> Redis     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> AlloyDB
 
 </p>
 
+### 🤖 AI / ML / Generative AI
+
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/> PyTorch     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/> TensorFlow     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> NumPy     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> Pandas     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/> Scikit-Learn
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/> PyTorch     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/> TensorFlow     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/> Scikit-Learn     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/> Google ADK    
+🧠 RAG    
+🔗 MCP    
+🔍 pgvector
 
 </p>
 
+### ☁️ Cloud & DevOps
+
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> Docker     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/> Kubernetes     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/> GCP     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> Linux     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> Git
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/> GCP     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> Docker     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/> Kubernetes     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> Linux     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> Git
 
 </p>
 
+### 🛠️ Developer Tools
+
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> GitHub     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> VS Code     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/> IntelliJ     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/> Jupyter     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40"/> Colab
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> GitHub     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> VS Code     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/> IntelliJ IDEA     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/> Jupyter     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40"/> Google Colab
 
 </p>
 
@@ -249,20 +280,5 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Ajay-Kumar-Prasad?theme=dark&font=Baloo&ext=heatmap" height="200"/>
-</p>
-
-
-## 📫 Connect with me
-
-<p>
-  <a href="https://www.linkedin.com/in/Ajay-kumar-prasad-744b54287/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="mailto:ajayk10440@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
-  </a>
-  <a href="https://your-portfolio-url.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="40" height="40"/>
-  </a>
 </p>
 
