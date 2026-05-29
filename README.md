@@ -37,7 +37,91 @@
 📄 [**Check My Resume Here!**](https://drive.google.com/file/d/1lktrsnEpg2awy66DjVOIAUspnFsTX6Ji/view?usp=sharing)
 
 ---
+
 <div align="center">
+
+# 🎨 **Featured Projects**
+
+✨ *Where logic meets design. A collection of my favorite builds across AI, Web, and Data.*
+
+</div>
+
+---
+
+<table align="center" style="border:none;">
+  <tr>
+    <td align="center" width="260" style="border:none;">
+      <a href="https://github.com/Ajay-Kumar-Prasad/Saarthi-AI">
+        <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="75"/><br>
+        <b><span style="color:#00FA9A;">Saarthi AI</span></b>
+      </a><br>
+      <sub><b>Tech:</b> Google ADK | RAG | AlloyDB | pgvector | GCP</sub><br>
+      <sub><span style="color:#2E8B57;">Multi-agent personal intelligence system with semantic memory, NL-to-SQL querying, and contextual recommendations across productivity, learning, finance, and health.</span></sub>
+    </td>
+
+```
+<td align="center" width="260" style="border:none;">
+  <a href="https://github.com/Ajay-Kumar-Prasad/financial-health-agent">
+    <img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="75"/><br>
+    <b><span style="color:#FF4500;">Financial Health Agent</span></b>
+  </a><br>
+  <sub><b>Tech:</b> Google ADK | MCP | BigQuery | Cloud Run | Gemini</sub><br>
+  <sub><span style="color:#DC143C;">AI financial analyst that retrieves live company data, benchmarks sector peers, tracks historical performance, and generates analyst-grade financial scorecards.</span></sub>
+</td>
+
+<td align="center" width="260" style="border:none;">
+  <a href="https://github.com/Ajay-Kumar-Prasad/JD_Bias_Detector">
+    <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="75"/><br>
+    <b><span style="color:#FF69B4;">JD Bias Detector</span></b>
+  </a><br>
+  <sub><b>Tech:</b> DeBERTa-v3 | FastAPI | Streamlit | Hugging Face</sub><br>
+  <sub><span style="color:#C71585;">Production-ready NLP system that detects biased language in job descriptions, explains risks, generates inclusive rewrites, and calculates inclusivity scores.</span></sub>
+</td>
+```
+
+  </tr>
+
+  <tr>
+    <td align="center" width="260" style="border:none;">
+      <a href="https://github.com/Ajay-Kumar-Prasad/jarvis">
+        <img src="https://img.icons8.com/color/96/robot-2.png" width="75"/><br>
+        <b><span style="color:#7CFC00;">JARVIS AI Search Engine</span></b>
+      </a><br>
+      <sub><b>Tech:</b> Python | Transformers | Redis | Async I/O</sub><br>
+      <sub><span style="color:#32CD32;">Concurrent AI-powered search and summarization engine with multi-source retrieval, transformer-based summarization, caching, and low-latency processing.</span></sub>
+    </td>
+
+```
+<td align="center" width="260" style="border:none;">
+  <a href="https://github.com/Ajay-Kumar-Prasad/ECOMMERCE-WEBSITE">
+    <img src="https://img.icons8.com/color/96/shopify.png" width="75"/><br>
+    <b><span style="color:#8A2BE2;">E-Commerce Platform</span></b>
+  </a><br>
+  <sub><b>Tech:</b> MERN Stack | JWT Auth | REST APIs</sub><br>
+  <sub><span style="color:#C71585;">Full-stack shopping platform featuring secure authentication, product management, cart functionality, and scalable backend architecture.</span></sub>
+</td>
+
+<td align="center" width="260" style="border:none;">
+  <a href="https://github.com/Ajay-Kumar-Prasad/DSA-Problems-Tracker">
+    <img src="https://img.icons8.com/color/96/flow-chart.png" width="75"/><br>
+    <b><span style="color:#00BFFF;">DSA Problems Tracker</span></b>
+  </a><br>
+  <sub><b>Tech:</b> C++ | Algorithms | Data Structures</sub><br>
+  <sub><span style="color:#20B2AA;">Curated repository of 300+ coding problems with optimized solutions, explanations, and patterns across major DSA topics.</span></sub>
+</td>
+```
+
+  </tr>
+</table>
+
+---
+
+<div align="center">
+⭐ Explore the repositories and discover AI agents, NLP systems, cloud-native applications, and full-stack engineering projects.
+</div>
+---
+
+<!-- <div align="center">
 
 # 🎨 **Featured Projects**
 
@@ -106,9 +190,8 @@
 ---
 <div align="center">
 ⭐ Explore the repos, drop a star if something makes your inner geek smile.
-</div>
+</div> -->
 
----
 # 🚀 Technology Stack
 
 <p align="center">
