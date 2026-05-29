@@ -225,63 +225,6 @@
 
 </p>
 
-```
-# 🚀 Technology Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Programming_Languages-111827?style=for-the-badge&color=111827"/>
-</p>
-
-<table align="center">
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br/><b style="font-size:14px;">Python</b></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/><br/><b style="font-size:14px;">Java</b></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/><br/><b style="font-size:14px;">Javascript</b></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"/><br/><b style="font-size:14px;">C++</b></td>
-</tr>
-</table>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI_&_Machine_Learning-111827?style=for-the-badge&color=111827"/>
-</p>
-
-<table align="center">
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60"/><br/><b style="font-size:14px;">Pytorch</b></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60"/><br/><b style="font-size:14px;">Tensorflow</b></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/><br/><b style="font-size:14px;">NumPy</b></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/><br/><b style="font-size:14px;">Pandas</b></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60"/><br/><b style="font-size:14px;">Scikit-Learn</b></td>
-</tr>
-</table>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full_Stack_Development-111827?style=for-the-badge&color=111827"/>
-</p>
-
-<table align="center">
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/><br/><b style="font-size:14px;">React</b></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/><br/><b style="font-size:14px;">Node.js</b></td>
-<td align="center">
-  <img src="express.png" width="60"/><br/><b style="font-size:14px;">Express</b>
-</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60"/><br/><b style="font-size:14px;">Spring Boot</b></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/><br/><b style="font-size:14px;">MongoDB</b></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/><br/><b style="font-size:14px;">PostgreSQL</b></td>
-<td align="center">
-  <img src="flask.png" width="60"/><br/><b style="font-size:14px;">Flask</b>
-</td>
-<td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/><br/><b style="font-size:14px;">MySQL</b>
-</td>
-</tr>
-</table>
-
 <br/>
 <table align="center">
 <tr>
